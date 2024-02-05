@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnselZo
-- 👀 I’m interested about web technologies
+- 👀 Am interested about web technologies. I am passionate about information technology and enthusiastic about cybersecurity (pentesting). I am quick-witted and always give my best. I am also able to adapt quickly to new technologies. As a technology professional, I focus on in-depth learning of specific business data analysis tools (visualization and reporting) as well as information systems management.
 - 🌱 I’m currently learning html, css, php, javascript and bootstrap framework
-- 💞️ I’m looking to collaborate on css properties of animations, css properties of images sliding, php, javascript, bootstrap and others frameworks
-- 📫 Do you wanna help me improving my performances in web programming? here is my email: ansetaabu2030@gmail.com
+- 💞️ Friendly
+- 📫 Do you wanna talk? Here's my email: ansetaabu2030@gmail.com
 
 <!---
 AnselZo/AnselZo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
